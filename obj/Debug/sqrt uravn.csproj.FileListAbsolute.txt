@@ -1,0 +1,9 @@
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\bin\Debug\sqrt uravn.exe.config
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\bin\Debug\sqrt uravn.exe
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\bin\Debug\sqrt uravn.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\obj\Debug\sqrt uravn.exe
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\obj\Debug\sqrt uravn.pdb
+C:\Users\Alexander\Documents\Visual Studio 2015\Projects\sqrt uravn\sqrt uravn\obj\Debug\sqrt uravn.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Git\bin\Debug\sqrt uravn.exe.config
+C:\Users\Александр\Git\obj\Debug\sqrt uravn.exe
+C:\Users\Александр\Git\obj\Debug\sqrt uravn.pdb

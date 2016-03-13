@@ -1,0 +1,6 @@
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\bin\Release\sqrt uravn.exe.config
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\bin\Release\sqrt uravn.exe
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\bin\Release\sqrt uravn.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\obj\Release\sqrt uravn.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\obj\Release\sqrt uravn.exe
+c:\users\alexander\documents\visual studio 2015\Projects\sqrt uravn\sqrt uravn\obj\Release\sqrt uravn.pdb
